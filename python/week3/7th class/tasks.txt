@@ -1,0 +1,20 @@
+Task1:
+	Write a class player that contains attributes for the player's name, average and team.
+	Write three functions to input, change and display these attributes.
+	Also write a constructor that ask for input to initialize all the attributes.
+Task2:
+	Define a class for a bank account that includes the following data members
+		name of depositor,
+		account number
+		type of account
+		balance amount in the account.
+	the class also contains the following member functions:
+		a constructor to assign initial values.
+		deposit function to deposit some amount.it should accept the amount as parameter.
+
+		withdraw function to withdraw amount after checking the balance. it should accept the 			amount as parameter.
+
+		display function to display name and balance.
+
+Task3:
+	Write a class Computer that contains data members if wordSize (in bits), memorySize (in MBs) 	and speed (in MHz). Derive a Laptop class that is a kind of computer but also specifies the 	object's length, width, height and weight. Member functions for both classes should contain a 	constructor to initialize all the components and a function to display data members.

@@ -1,0 +1,8 @@
+1. find the sum of numbers in a list.
+2. count the occurances of elements.
+3. reverse list.
+4.  find vowels in a list of strings.
+5. Flatten a list of list.
+6. find common elements in two list.
+7. remove duplicate in from list.
+8. find the maximum value in a dictionary.

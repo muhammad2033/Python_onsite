@@ -1,0 +1,2 @@
+1. come up with at least 10 examples for implementing the string methods by own implementation.
+2. write at least 10 examples to manipulate list of dictionaries, dictionary of dictionaries with user defined function.
